@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[测试博客]]></title>
+    <url>%2F2019%2F03%2F18%2F%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>写作</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Github上的第一篇博客]]></title>
     <url>%2F2019%2F03%2F17%2FGithub%E4%B8%8A%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%2F</url>
     <content type="text"><![CDATA[此博客仅作为测试使用]]></content>
