@@ -187,84 +187,84 @@ h6 {
   font-family: 'Lato', "Minion Pro", "Adobe Fangsong Std", "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 h1 {
-  font-size: 26px;
+  font-size: 28px;
 }
 h1 code {
   font-size: 1em;
 }
 @media (max-width: 767px) {
   h1 {
-    font-size: 22px;
+    font-size: 24px;
   }
   h1 code {
     font-size: 1em;
   }
 }
 h2 {
-  font-size: 24px;
+  font-size: 26px;
 }
 h2 code {
   font-size: 1em;
 }
 @media (max-width: 767px) {
   h2 {
-    font-size: 20px;
+    font-size: 22px;
   }
   h2 code {
     font-size: 1em;
   }
 }
 h3 {
-  font-size: 22px;
+  font-size: 24px;
 }
 h3 code {
   font-size: 1em;
 }
 @media (max-width: 767px) {
   h3 {
-    font-size: 18px;
+    font-size: 20px;
   }
   h3 code {
     font-size: 1em;
   }
 }
 h4 {
-  font-size: 20px;
+  font-size: 22px;
 }
 h4 code {
   font-size: 1em;
 }
 @media (max-width: 767px) {
   h4 {
-    font-size: 16px;
+    font-size: 18px;
   }
   h4 code {
     font-size: 1em;
   }
 }
 h5 {
-  font-size: 18px;
+  font-size: 20px;
 }
 h5 code {
   font-size: 1em;
 }
 @media (max-width: 767px) {
   h5 {
-    font-size: 14px;
+    font-size: 16px;
   }
   h5 code {
     font-size: 1em;
   }
 }
 h6 {
-  font-size: 16px;
+  font-size: 18px;
 }
 h6 code {
   font-size: 1em;
 }
 @media (max-width: 767px) {
   h6 {
-    font-size: 12px;
+    font-size: 14px;
   }
   h6 code {
     font-size: 1em;
@@ -412,7 +412,7 @@ table {
   width: 100%;
   border-collapse: collapse;
   border-spacing: 0;
-  font-size: 16px;
+  font-size: 18px;
 }
 table>tbody>tr:nth-of-type(odd) {
   background-color: #f9f9f9;
@@ -423,7 +423,7 @@ table>tbody>tr:hover {
 caption,
 th,
 td {
-  padding: 12px;
+  padding: 18px;
   text-align: left;
   vertical-align: middle;
   font-weight: normal;
@@ -1902,7 +1902,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #09ee4a;
+  background: #af46db;
 }
 .links-of-blogroll {
   margin-top: 10px;
