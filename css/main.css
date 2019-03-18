@@ -1827,7 +1827,7 @@ pre .javascript .function {
 .site-description {
   margin-top: 0;
   text-align: center;
-  font-size: 13px;
+  font-size: 15px;
   color: #999;
 }
 .site-state {
@@ -1854,10 +1854,10 @@ pre .javascript .function {
   text-align: center;
   color: inherit;
   font-weight: 600;
-  font-size: 16px;
+  font-size: 18px;
 }
 .site-state-item-name {
-  font-size: 13px;
+  font-size: 15px;
   color: #999;
 }
 .feed-link {
@@ -1902,7 +1902,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #af46db;
+  background: #ffb159;
 }
 .links-of-blogroll {
   margin-top: 10px;
@@ -2457,14 +2457,14 @@ ul.breadcrumb li+li:last-child {
   top: 0;
   overflow: hidden;
   padding: 0;
-  width: 240px;
+  width: 280px;
   background: #fff;
   box-shadow: initial;
   border-radius: initial;
 }
 @media (min-width: 1200px) {
   .container .header-inner {
-    width: 240px;
+    width: 280px;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
@@ -2503,7 +2503,7 @@ ul.breadcrumb li+li:last-child {
   float: right;
   box-sizing: border-box;
   padding: 40px;
-  width: calc(100% - 252px);
+  width: calc(100% - 292px);
   background: #fff;
   min-height: 700px;
   box-shadow: initial;
@@ -2528,7 +2528,7 @@ ul.breadcrumb li+li:last-child {
   position: static;
   float: left;
   margin-left: -100%;
-  width: 240px;
+  width: 280px;
   background: rgba(255,255,255,0.7);
   box-shadow: none;
 }
@@ -2757,7 +2757,7 @@ ul.breadcrumb li+li:last-child {
 }
 .sidebar-inner {
   box-sizing: border-box;
-  width: 240px;
+  width: 280px;
   color: #555;
   background: rgba(255,255,255,0.7);
   box-shadow: initial;
