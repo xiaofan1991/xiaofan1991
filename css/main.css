@@ -153,7 +153,7 @@ template {
 }
 body {
   position: relative;
-  font-family: 'Lato', "Adobe Fangsong Std", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Lato', "Minion Pro", "Adobe Fangsong Std", "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 16px;
   line-height: 2;
   color: #555;
@@ -184,7 +184,7 @@ h6 {
   padding: 0;
   font-weight: bold;
   line-height: 1.5;
-  font-family: 'Lato', "Adobe Fangsong Std", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Lato', "Minion Pro", "Adobe Fangsong Std", "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 h1 {
   font-size: 26px;
@@ -423,7 +423,7 @@ table>tbody>tr:hover {
 caption,
 th,
 td {
-  padding: 8px;
+  padding: 12px;
   text-align: left;
   vertical-align: middle;
   font-weight: normal;
@@ -506,7 +506,7 @@ pre,
 }
 pre,
 code {
-  font-family: consolas, Menlo, "Adobe Fangsong Std", "PingFang SC", "Microsoft YaHei", monospace;
+  font-family: consolas, Menlo, "Minion Pro", "Adobe Fangsong Std", "PingFang SC", "Microsoft YaHei", monospace;
 }
 code {
   overflow-wrap: break-word;
@@ -1101,7 +1101,7 @@ pre .javascript .function {
   position: relative;
 }
 .headband {
-  height: 3px;
+  height: 5px;
   background: #222;
 }
 .site-meta {
@@ -1136,11 +1136,11 @@ pre .javascript .function {
   line-height: 36px;
   font-size: 24px;
   font-weight: normal;
-  font-family: 'Lato', "Adobe Fangsong Std", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Lato', "Minion Pro", "Adobe Fangsong Std", "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 .site-subtitle {
   margin-top: 10px;
-  font-size: 13px;
+  font-size: 16px;
   color: #ddd;
 }
 .use-motion .brand {
@@ -1288,7 +1288,7 @@ pre .javascript .function {
 .post-body {
   overflow-wrap: break-word;
   word-wrap: break-word;
-  font-family: 'Lato', "Adobe Fangsong Std", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Lato', "Minion Pro", "Adobe Fangsong Std", "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 .post-body span.exturl .fa {
   font-size: 14px;
@@ -1556,7 +1556,7 @@ pre .javascript .function {
 .posts-expand .post-meta {
   margin: 3px 0 60px 0;
   color: #999;
-  font-family: 'Lato', "Adobe Fangsong Std", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Lato', "Minion Pro", "Adobe Fangsong Std", "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 12px;
   text-align: center;
 }
@@ -1902,7 +1902,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #283c1b;
+  background: #09ee4a;
 }
 .links-of-blogroll {
   margin-top: 10px;
