@@ -12,40 +12,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[测试博客3]]></title>
-    <url>%2F2019%2F03%2F22%2F%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A23%2F</url>
-    <content type="text"><![CDATA[生物医学领域中的文本应用how to give title to me！]]></content>
-  </entry>
-  <entry>
-    <title></title>
-    <url>%2F2019%2F03%2F21%2Fhehe%2F</url>
-    <content type="text"><![CDATA[为什么我们需要不断的学习 1、考虑到绝大多数问题12x &lt;- a + binstall.package(asdasd) &emsp;&emsp;没有星星的夜里，阿斯顿撒萨达asdas的中国的人是这样的 Seven 软件 自然 羞涩 算了 呵呵 秀念 可爱多啊 绝对 傻逼 透气 马丹 2、人生的路程需要自己一步一个脚印的走，没有捷径 菩提本无树，明镜亦非台。心中无一物，何处惹尘埃。 &emsp;&emsp;长恨人心不水，等闲平地起波澜。 好的 [x] asd 1print(hello world) aasd]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[测试2]]></title>
-    <url>%2F2019%2F03%2F18%2F%E6%B5%8B%E8%AF%952%2F</url>
-    <content type="text"></content>
-      <categories>
-        <category>阅读</category>
-      </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[测试博客]]></title>
-    <url>%2F2019%2F03%2F18%2F%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2%2F</url>
-    <content type="text"></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>写作</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Github上的第一篇博客]]></title>
-    <url>%2F2019%2F03%2F17%2FGithub%E4%B8%8A%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%2F</url>
-    <content type="text"><![CDATA[此博客仅作为测试使用]]></content>
-  </entry>
-  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2019%2F03%2F17%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
