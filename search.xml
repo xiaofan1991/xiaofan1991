@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[R语言准备工作]]></title>
     <url>%2F2019%2F04%2F09%2FR%E8%AF%AD%E8%A8%80%E7%9A%84%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C%2F</url>
-    <content type="text"><![CDATA[1. 打开Rstudio，编辑或创建~/.Rprofile文件，进行全局设置12# 先编辑~/.Rprofile文件，如果没有就创建一个，进行全局设置file.edit("~/.Rprofile") 2. 查看CRAN和Bioconductor的镜像123# 查看默认的镜像地址options()$reposoptions()$Bioc_mirror 3. 设置镜像地址12345# 百度清华或者中科大镜像，注意把地址写完整，末尾的'/'options(BioC_mirror = "https://mirrors.tuna.tsinghua.edu.cn/bioconductor/")options(CRAN = "https://mirrors.tuna.tsinghua.edu.cn/CRAN/")# CRAN镜像设置的规范写法options("repos" = c(CRAN = "https://mirrors.tuna.tsinghua.edu.cn/CRAN/")) 4. 设置互联网文件下载12# 由于众所周知的墙的原因，下载文件困难，更改文件的下载方式为libcurloptions("download.file.method" = "libcurl") 5. 安装BiocManager12345# 标准安装方式if (!requireNamespace("BiocManager")) install.packages("BiocManager")BiocManager::install()# 同时安装多个包BiocManager::install(c("package1", "package2"))]]></content>
+    <content type="text"><![CDATA[1. 打开Rstudio，编辑或创建 ~/.Rprofile文件，进行全局设置12# 先编辑~/.Rprofile文件，如果没有就创建一个，进行全局设置file.edit("~/.Rprofile") 2. 查看CRAN和Bioconductor的镜像123# 查看默认的镜像地址options()$reposoptions()$Bioc_mirror 3. 设置镜像地址12345# 百度清华或者中科大镜像，注意把地址写完整，末尾的'/'options(BioC_mirror = "https://mirrors.tuna.tsinghua.edu.cn/bioconductor/")options(CRAN = "https://mirrors.tuna.tsinghua.edu.cn/CRAN/")# CRAN镜像设置的规范写法options("repos" = c(CRAN = "https://mirrors.tuna.tsinghua.edu.cn/CRAN/")) 4. 设置互联网文件下载12# 由于众所周知的墙的原因，下载文件困难，更改文件的下载方式为libcurloptions("download.file.method" = "libcurl") 5. 安装BiocManager12345# 标准安装方式if (!requireNamespace("BiocManager")) install.packages("BiocManager")BiocManager::install()# 同时安装多个包BiocManager::install(c("package1", "package2"))]]></content>
       <categories>
         <category>R</category>
       </categories>
